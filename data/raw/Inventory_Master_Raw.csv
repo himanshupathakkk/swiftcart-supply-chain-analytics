@@ -1,0 +1,36 @@
+SKU_ID,Product_Title,Product_Category,Current_Stock_Qty,Reorder_Threshold,Unit_Cost_INR,Supplier_ID
+SKU-1001,Wireless Earbuds Pro,Electronics,,30,₹767.58,SUP-01
+SKU-1002,Smart Fitness Band,Electronics,12,30,1144.81,SUP-01
+ sku-1003,USB-C Fast Charger 65W,ACCESSORIES,5,75,573.75,SUP-02
+SKU-1004,Stainless Steel Water Bottle,Kitchen,45,20,298.96,SUP-03
+SKU-1005,Non-Stick Frying Pan 28cm,Kitchen,45,30,709.06,SUP-03
+ sku-1006,Yoga Mat Anti-Slip 6mm,Fitness,0,30,506.47,SUP-04
+SKU-1007,Adjustable Dumbbell Set,Fitness,500,30,1789.89,SUP-04
+SKU-1008,Bluetooth Portable Speaker,Electronics,0,50,1559.55,SUP-01
+SKU-1009,Laptop Stand Aluminum,Accessories,-4,50,₹762.84,SUP-02
+SKU-1010,Electric Kettle 1.5L,Home Appliances,310,50,569.26,SUP-05
+ sku-1011,Air Fryer 4.2L Digital,Home Appliances,12,30,2667.12,SUP-05
+SKU-1012,Mechanical Gaming Keyboard,Electronics,0,20,2031.36,SUP-06
+SKU-1013,Ergonomic Wireless Mouse,Accessories,-4,20,530.74,SUP-06
+ sku-1014,Insulated Lunch Box Set,Kitchen,-4,30,384.42,SUP-03
+SKU-1015,Resistance Bands Pack of 5,Fitness,120,50,376.55,SUP-04
+ sku-1016,LED Desk Lamp Touch,Home Appliances,12,75,₹396.97,SUP-07
+SKU-1017,Phone Tripod Stand,Accessories,120,20,₹268.24,SUP-02
+ sku-1018,Smart Weighing Scale,Fitness,,75,648.28,SUP-07
+SKU-1019,Coffee Maker Drip 600ml,Home Appliances,120,50,₹1229.71,SUP-05
+SKU-1020,Noise Cancelling Headphones,Electronics,45,75,2383.75,SUP-06
+SKU-1021,Smart Watch AMOLED,Electronics,25,25,2235.8,SUP-08
+SKU-1022,Portable Blender USB,Kitchen,25,40,637.56,SUP-09
+SKU-1023,Foam Roller Muscle,Fitness,420,40,348.1,SUP-04
+SKU-1024,HDMI 2.1 Braided Cable,Accessories,25,40,235.9,SUP-10
+SKU-1025,Room Heater Ceramic,Home Appliances,420,25,1277.04,SUP-07
+SKU-1026,Gaming Mousepad XL,Accessories,60,60,263.89,SUP-06
+SKU-1027,Air Purifier HEPA,Home Appliances,60,60,4047.48,SUP-08
+SKU-1028,Vacuum Flask 1L,Kitchen,180,25,448.67,SUP-03
+SKU-1029,Pull-Up Bar Doorway,Fitness,420,60,614.99,SUP-11
+SKU-1030,Webcam 1080p HD,Electronics,420,25,1143.4,SUP-06
+SKU-1031,Toaster 2-Slice Pop-up,Home Appliances,420,25,875.03,SUP-05
+SKU-1032,Kitchen Digital Scale,Kitchen,60,60,292.97,SUP-09
+SKU-1033,Skipping Rope Speed,Fitness,420,40,163.91,SUP-11
+SKU-1034,Laptop Sleeve 15.6 inch,Accessories,180,60,337.16,SUP-10
+SKU-1035,Power Bank 20000mAh,Electronics,25,60,977.07,SUP-12
